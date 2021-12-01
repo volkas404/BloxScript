@@ -1,7 +1,6 @@
--- you can use this ui ;3 free for all
-
+-- UI free
 if _G.oldNameUi == nil then
-    _G.oldNameUi = "Night Hub Ui"
+    _G.oldNameUi = "Volkas Hub Ui"
 end
 
 do if game.CoreGui:FindFirstChild(_G.oldNameUi) then game.CoreGui:FindFirstChild(_G.oldNameUi):Destroy() end end;
